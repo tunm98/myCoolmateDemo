@@ -1,0 +1,33 @@
+{
+  "products": {
+    "basics": [
+      "https://mcdn.coolmate.me/image/July2022/mceclip0_32.png",
+      "https://mcdn.coolmate.me/image/September2022/mceclip1_11.png",
+      "https://mcdn.coolmate.me/uploads/January2022/CoolmateBasic3.png",
+      "https://mcdn.coolmate.me/uploads/February2022/Mask_Group_(2).png",
+      "https://mcdn.coolmate.me/uploads/January2022/CoolmateBasic4.png"
+    ],
+    "choices": [
+      {
+        "id": 1,
+        "name": "Đồ mặc trong",
+        "src": "https://mcdn.coolmate.me/image/June2022/mceclip0_43.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Mặc hàng ngày",
+        "src": "https://mcdn.coolmate.me/image/June2022/mceclip0_99.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Đồ thể thao",
+        "src": "https://mcdn.coolmate.me/image/June2022/mceclip1_56.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Tất cả",
+        "src": "https://mcdn.coolmate.me/image/June2022/mceclip1_61.jpg"
+      }
+    ]
+  }
+}

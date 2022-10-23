@@ -1,0 +1,59 @@
+{
+  "footer": [
+    {
+      "id": 1,
+      "name": "Khám phá COOLMATE",
+      "children1": [
+        "Áo Polo",
+        "Áo T-shirt",
+        "Áo Sơ mi",
+        "Quần",
+        "Quần Lót",
+        "Tất (Vớ)",
+        "Mũ (Nón)",
+        "Phụ Kiện Khác"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Dịch vụ khách hàng",
+      "children1": [
+        "Hỏi đáp - FAQs",
+        "Chính sách đổi trả 60 ngày",
+        "Liên hệ",
+        "Thành viên Coolclub",
+        "Khách hàng hài lòng 100%",
+        "Chính sách khuyến mãi",
+        "Chính sách giao hàng"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kiến thức mặc đẹp",
+      "children1": ["Hướng dẫn chọn size", "Blog", "Group mặc đẹp sống chất"]
+    },
+    {
+      "id": 4,
+      "name": "Tài liệu - Tuyển dụng",
+      "children1": ["Tuyển dụng", "Đăng ký bản quyền"]
+    },
+    {
+      "id": 5,
+      "name": "Về COOLMATE",
+      "children1": [
+        "Câu chuyện về Coolmate",
+        "Nhà máy",
+        "CoolClub",
+        "Care & Share"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Địa chỉ liên hệ",
+      "children1": [
+        "HUB Hà Nội: Số 103, Đường Vạn Phúc, Phường Vạn Phúc, Quận Hà Đông, TP. Hà Nội",
+        "HUB Tp HCM: Lầu 1, Số 163 Trần Trọng Cung, Phường Tân Thuận Đông, Quận 7, Tp. Hồ Chí Minh"
+      ]
+    }
+  ]
+}
