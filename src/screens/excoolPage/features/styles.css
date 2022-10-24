@@ -69,6 +69,7 @@
   flex-direction: row;
   margin: 0 auto;
   width: 90%;
+  justify-content: space-between;
   margin-top: 10px;
 }
 .feature-item {
@@ -97,4 +98,12 @@
   font-style: italic;
   font-size: 12px;
   margin-top: 20px;
+}
+@media screen and (max-width: 500px) {
+  .feature-item {
+    padding-top: 0!important;
+  }
+  .feature-container {
+    width: 100%;
+  }
 }

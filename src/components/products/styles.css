@@ -93,4 +93,14 @@
   .feature-holder {
     grid-template-columns: 1fr 1fr;
   }
+  .basics p {
+    font-size: 40px;
+  }
+  .basics-holder {
+    flex-wrap: wrap;
+    height: 100%;
+  }
+  .basic-item {
+    width: 30%;
+  }
 }
