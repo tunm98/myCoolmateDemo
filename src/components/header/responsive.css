@@ -151,3 +151,31 @@
     display: none;
   }
 }
+@media screen and (max-width: 500px) {
+  .infor {
+    width: 95% !important;
+    padding: 0 10px !important;
+  }
+  .infor h1 {
+    font-size: 35px;
+  }
+  .background,
+  .background2 {
+    justify-content: center;
+  }
+  .background2 {
+    height: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .basics-holder {
+    flex-wrap: wrap;
+    height: 100%;
+  }
+  .basic-item {
+    width: 30%;
+  }
+  .type {
+    display: none;
+  }
+}

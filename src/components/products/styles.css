@@ -86,3 +86,11 @@
   cursor: pointer;
 }
 
+@media screen and (max-width: 500px) {
+  .detail-product-slider {
+    width: 80vw !important;
+  }
+  .feature-holder {
+    grid-template-columns: 1fr 1fr;
+  }
+}
